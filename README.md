@@ -12,3 +12,5 @@ complement to existing metabolomics data preprocessing methods and aid in better
 status of interest.
 
 The matlab code of MCEE is freely available here.
+
+Please cite: Li Yitao, Li Mengci, Ni Yan, Jia Wei, Chen Tianlu*, MCEE: A Data Preprocessing Approach for Metabolic Confounding Effect Elimination, Analytical and Bioanalytical Chemistry, https://doi.org/10.1007/s00216-018-0947-4.
