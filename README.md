@@ -9,7 +9,7 @@ were evaluated comprehensively by several simulated models and real datasets, an
 the principal component analysis (PCA)- and the direct orthogonal signal correction (DOSC)-based methods. MCEE is simple,
 effective, and safe, and is independent of sample number, association degree, and missing value. Hence, it may serve as a good
 complement to existing metabolomics data preprocessing methods and aid in better understanding the metabolic and biological
-status of interest.
+status of interest. Here is another software with similar aim but totally different algorithm: https://github.com/chentianlu/ICA-RCE-.
 
 The matlab code with GUI of MCEE is freely available here.
 The soft is protect by CPCC, Copyright Protection Center of China.
